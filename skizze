@@ -1,0 +1,10 @@
+test: 
+
+2 youtube links , 
+
+link 1 suche "test1", tags: test, test1  Link: "https://www.youtube.com/watch?v=_mw7Fz95o88&list=PLy6N_9yB8Qwy6LL0J7zLUyW8XNX-BPeDl"
+link 2 suche "test2", tags: test, test2, Link: " https://www.youtube.com/watch?v=7m2SY2Oq4dI"
+
+
+
+entweder erst versuchen nach tags runterzuladen(bookmarks html) oder überhaupt erstmal ne list mit python an yt-dl weiterreichen und 
